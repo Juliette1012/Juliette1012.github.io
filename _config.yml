@@ -27,8 +27,8 @@ avatar: /assets/img/sample/try-hard.jpg   # support internet resources
 github:
   username: Juliette1012             # change to your github username
 
-#twitter:
-  #username:            # change to your twitter username
+twitter:
+  username: CyberTryHard           # change to your twitter username
 
 social:
   name: Juliette                  # it will shows as the copyright owner in Footer

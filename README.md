@@ -1,1 +1,1 @@
-Web Site on github dedicated to my personal works.
+Web Site on github dedicated to my personal works and discoveries.
