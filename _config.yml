@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Cyber TryHard                          # the main title
+title: Cyber TryHard                         # the main title
 
-tagline: A web site dedicated to personal works.  # it will display as the sub-title
+tagline: Blog post for my personal works and discoveries. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -22,13 +22,13 @@ url: 'https://Juliette1012.github.io'
 
 author: Juliette                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/try-hard.jpg   # support internet resources
 
 github:
   username: Juliette1012             # change to your github username
 
-twitter:
-  username:            # change to your twitter username
+#twitter:
+  #username:            # change to your twitter username
 
 social:
   name: Juliette                  # it will shows as the copyright owner in Footer
