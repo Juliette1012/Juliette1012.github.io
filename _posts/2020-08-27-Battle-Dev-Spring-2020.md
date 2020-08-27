@@ -3,10 +3,11 @@ layout: post
 title: BattleDev Spring 2020
 categories: [Programming]
 tags: [BattleDev, Python]
-image: /assets/img/battleDev2020/icon.png
+featured-image:  battleDev2020/icon.png
+featured-image-alt: BattleDev 2020
 ---
 
-In spring, I participated to a French Competition : the BattleDev, but it allows anyone from an EEC country to compete. 
+In spring, I participated to a French Competition : the `BattleDev`, but it allows anyone from an EEC country to compete. 
 
 Indeed, it’s a competition that bring together  thousands of programmers from all around the world.  At this edition, we were more than 5000 participants.
 
@@ -28,7 +29,7 @@ We could choose to resolve the differents exercises in :
 
 > Node.js.
 
-I managed to find the first two exercises and was stuck on the third one, as the majority of the others.
+I managed to find the first `two` exercises and was stuck on the third one, as the majority of the others.
 
 ![Result](/assets/img/battleDev2020/result.png)
 
@@ -42,9 +43,9 @@ I managed to find the first two exercises and was stuck on the third one, as the
 
 I**nput** 
 
-Row 1 : an integer N between 3 and 10000 corresponding to the number of people interviewed. 
+Row 1 : an integer `N` between 3 and 10000 corresponding to the number of people interviewed. 
 
-Rows2 to N+1 : a string comprising between 4and 10 lower case letters corresponding to the color preferred by a given person.
+Rows2 to `N`+1 : a string comprising between 4and 10 lower case letters corresponding to the color preferred by a given person.
 
 **Output**
 
@@ -92,9 +93,9 @@ Because red got 3 votes, yellow two votes and blue 1 vote.
 
 **Entry**
 
-Row 1 : an integer N between 1 and 10000 representing the number of draws displayed in the history.
+Row 1 : an integer `N` between 1 and 10000 representing the number of draws displayed in the history.
 
-Rows 2 to N+1 : a digitbetween 1 and 9 representing the number of the card drawn.
+Rows 2 to `N`+1 : a digit between 1 and 9 representing the number of the card drawn.
 
 **Output** 
 
