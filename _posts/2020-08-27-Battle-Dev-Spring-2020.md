@@ -1,7 +1,7 @@
 ---
 layout: post
-title : BattleDev Spring 2020
-categories : Programming
+title: BattleDev Spring 2020
+categories: [Programming]
 tags: [BattleDev, Python]
 image: /assets/img/battleDev2020/icon.png
 ---
