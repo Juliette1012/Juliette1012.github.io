@@ -24,6 +24,6 @@ If you want to dowload the zip which contains the executable in Windows : [Les A
 You will arrive on this page : 
 ![Result](/assets/img/tartine/release.png)
 
-In there, dowload the zip file and dezipp-it. Once opened, open the folder `Les-Aventures-de-Tartine` and execute `Platformer.exe`.
+In there, download the zip file and unzip it. Once opened, open the folder `Les-Aventures-de-Tartine` and execute `Platformer.exe`.
 
 **Enjoy the GAME !!**
