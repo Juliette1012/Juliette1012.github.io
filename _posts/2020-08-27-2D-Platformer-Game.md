@@ -35,7 +35,7 @@ If you want to dowload the zip which contains the executable for Mac : [Les Aven
 You will arrive on this page : 
 ![Mac release](/assets/img/tartine/release-mac.png)
 
-In there, open the folder. Once opened, execute the file : `Les-Aventures-de-Tartine-mac`.
+In there, open the folder. Once opened, execute the file : `Les-Aventures-de-Tartine-Mac`.
 
 ![Mac executable](/assets/img/tartine/executable-mac.png)
 
