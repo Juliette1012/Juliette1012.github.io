@@ -11,13 +11,13 @@ It's a write-up about the room : [Try Hack Me - Room : Linux Challenges](https:/
 
 # Task 1 - Linux Challenges Introduction
 
-We connect to the machine with the following credentials :  
+We log to the machine with the following credentials :  
 Username: garry  
 Password: letmein
 
 * How many visible files can you see in garrys home directory?  
 
-`ssh -l garry IP_MACHINE` and we put the password **letmein**. 
+`ssh -l garry IP_MACHINE` and we write the password **letmein**. 
 To see how many files there are in home directory we used the command `ls`. There are **3** files.
 
 # Task 2 - The Basics
