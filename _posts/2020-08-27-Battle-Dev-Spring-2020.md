@@ -7,6 +7,8 @@ featured-image:  battleDev2020/icon.png
 featured-image-alt: BattleDev 2020
 ---
 
+# Presentation
+
 In spring, I participated to a French Competition : the `BattleDev`, but it allows anyone from an EEC country to compete. 
 
 Indeed, it’s a competition that bring together  thousands of programmers from all around the world.  At this edition, we were more than 5000 participants.
