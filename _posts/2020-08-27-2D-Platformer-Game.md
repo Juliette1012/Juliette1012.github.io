@@ -17,9 +17,9 @@ You can recover after your injuries with hearts and gain money with coins. The d
 
 We had precise tasks during this project. Valentin made the animations, Corentin the game design and playability, and i made, using C#, all the interactions between the player and the environment.
 
-## Download the Game
+# Download the Game
 
-### Windows Users
+## Windows Users
 
 If you want to dowload the zip which contains the executable for Windows : [Les Aventures de Tartine](https://github.com/Juliette1012/Tartine-release/releases/tag/v1.0/dowload).
 
@@ -28,7 +28,7 @@ You will arrive on this page :
 
 In there, download the zip file and unzip it. Once opened, open the folder `Les-Aventures-de-Tartine` and execute `Platformer.exe`.
 
-### Mac Users
+## Mac Users
 
 If you want to dowload the zip which contains the executable for Mac : [Les Aventures de Tartine](https://github.com/Juliette1012/Tartine-release/releases/tag/v1.0-mac/dowload).
 
