@@ -7,7 +7,7 @@ featured-image:  thm/intro-research/theme.png
 featured-image-alt: Introductory Researching
 ---
 
-It's a write-up about the room : [Try Hack Me - Room : Jupyter 100](https://tryhackme.com/room/introtoresearch)
+It's a write-up about the room : [Try Hack Me - Room : Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 # [Task 1] Introduction
 

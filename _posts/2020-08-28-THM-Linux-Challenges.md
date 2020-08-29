@@ -12,8 +12,11 @@ It's a write-up about the room : [Try Hack Me - Room : Linux Challenges](https:/
 # Task 1 - Linux Challenges Introduction
 
 We log to the machine with the following credentials :  
+
+```
 Username: garry  
 Password: letmein
+```
 
 * How many visible files can you see in garrys home directory?  
 

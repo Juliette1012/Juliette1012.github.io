@@ -7,7 +7,7 @@ featured-image:  thm/google-dorking/theme.png
 featured-image-alt: Google Dorking
 ---
 
-It's a write-up about the room : [Try Hack Me - Room : Jupyter 100](https://tryhackme.com/room/googledorking)
+It's a write-up about the room : [Try Hack Me - Room : Google Dorking](https://tryhackme.com/room/googledorking)
 
 # [Task 1] Introduction
 
