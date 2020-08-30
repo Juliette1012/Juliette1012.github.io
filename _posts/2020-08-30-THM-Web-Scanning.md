@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Write-Up [THM] WebScanning
+title: Write-Up [THM] Web Scanning
 categories: [Write-Ups]
 tags: [TryHackMe, Security, Web, App, Scanning]
 featured-image:  thm/web-scanning/theme.png
