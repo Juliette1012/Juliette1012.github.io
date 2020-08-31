@@ -59,7 +59,7 @@ It's a write-up about the room : [Try Hack Me - Room : Nessus](https://tryhackme
 
 ![Task 4](/assets/img/thm/intro-networking/task-4.png)
 
-![Syn/ACK](/assets/img/thm/intro-networking/syn/ack.png)
+![Syn/ACK](/assets/img/thm/intro-networking/syn-ack.png)
 
 * Which model was introduced first, OSI or TCP/IP? `TCP/IP`
 
