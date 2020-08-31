@@ -2,7 +2,7 @@
 layout: post
 title: Write-Up [THM] Networking
 categories: [Write-Ups]
-tags: [TryHackMe, Networing, subnet, cisco, routing]
+tags: [TryHackMe, Networking, subnet, cisco, routing]
 featured-image:  thm/networking/theme.png
 featured-image-alt: Networking
 ---
