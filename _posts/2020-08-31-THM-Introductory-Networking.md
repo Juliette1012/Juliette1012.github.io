@@ -2,7 +2,7 @@
 layout: post
 title: Write-Up [THM] Introductory Networking
 categories: [Write-Ups]
-tags: [TryHackMe, Netwrking, OSI]
+tags: [TryHackMe, Networking, OSI]
 featured-image:  thm/intro-networking/theme.png
 featured-image-alt: Introductory Networking
 ---
@@ -149,7 +149,7 @@ We're going to look at the `ping` command.
 > Dig allows us to manually query recursive DNS servers of our choice for information about domains:
 dig <domain> @<dns-server-ip>
 
-It is a very useful tool for network troubleshooting.
+`Dig` is a very useful tool for network troubleshooting.
 
 * What is DNS short for? `Domain Name System`
 
