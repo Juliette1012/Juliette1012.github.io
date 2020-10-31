@@ -59,7 +59,7 @@ Im in New York right now, so I will update this site right away with new photos!
 ```
 
 The code source of the page revealed us this line : `
-<p style="color:#ffffff;" class="has-text-color">pennYDr0pper.!</p>`. 
+`<p style="color:#ffffff;" class="has-text-color">pennYDr0pper.!</p>`. 
 
 And a twitter : [OwoodFlint](https://twitter.com/owoodflint?lang=fr). The profile picture of this account is a cat.
 There is a post : 
@@ -72,7 +72,7 @@ Bssid: B4:5D:50:AA:86:41 - Go nuts!
 On the website : [wigle](https://wigle.net) we entered the BSSID and on the city London by zooming we found the name of the Wifi : `UnileverWifi`
 
 
-* What is this users avatar of?
+* What is this users avatar of? `cat`
 
 * What city is this person in? `london`
 
