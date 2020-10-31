@@ -58,7 +58,7 @@ Hey
 Im in New York right now, so I will update this site right away with new photos!
 ```
 
-The code source of the page revealed us this line : `
+The code source of the page revealed us this line :  
 `<p style="color:#ffffff;" class="has-text-color">pennYDr0pper.!</p>`. 
 
 And a twitter : [OwoodFlint](https://twitter.com/owoodflint?lang=fr). The profile picture of this account is a cat.
