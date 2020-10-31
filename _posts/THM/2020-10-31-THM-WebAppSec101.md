@@ -3,7 +3,7 @@ layout: post
 title: Write-Up [THM] WebAppSec 101
 categories: [Write-Ups]
 tags: [TryHackMe, WebApplication]
-featured-image:  thm/webapplication101/theme.png
+featured-image:  thm/webappsec101/theme.png
 featured-image-alt: WebApplication 101
 ---
 
