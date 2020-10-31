@@ -3,7 +3,7 @@ layout: post
 title: Write-Up [THM] LFI Basics
 categories: [Write-Ups]
 tags: [TryHackMe, LFI]
-featured-image:  thm/lfi/theme.png
+featured-image:  thm/lfiBasics/theme.png
 featured-image-alt: LFI Basics
 ---
 
