@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ringzer0CTF Hangovers and more : Bacon
-categories: [Write-Ups, Ringzer0CTF]
+title: Ringzer0CTF Hangovers and more Bacon
+categories: [Write-Ups, Ringzer0CTF, Cryptography]
 tags: [Ringzer0CTF, Cryptography, Bacon cipher]
 featured-image:  ringzer0CTF/icon.png
 featured-image-alt: ringzer0CTF

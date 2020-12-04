@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ringzer0CTF Public key recovery
-categories: [Write-Ups, Ringzer0CTF]
+categories: [Write-Ups, Ringzer0CTF, Cryptography]
 tags: [Ringzer0CTF, Cryptography, public key, MD5]
 featured-image:  ringzer0CTF/icon.png
 featured-image-alt: ringzer0CTF

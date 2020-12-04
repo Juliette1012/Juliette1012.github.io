@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ringzer0CTF Martian message part 3 
-categories: [Write-Ups, Ringzer0CTF]
+categories: [Write-Ups, Ringzer0CTF, Cryptography]
 tags: [Ringzer0CTF, Cryptography, base64, XOR]
 featured-image:  ringzer0CTF/icon.png
 featured-image-alt: ringzer0CTF

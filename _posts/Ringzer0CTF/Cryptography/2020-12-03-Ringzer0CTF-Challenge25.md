@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ringzer0CTF Some Martian Message
-categories: [Write-Ups, Ringzer0CTF]
+categories: [Write-Ups, Ringzer0CTF, Cryptography]
 tags: [Ringzer0CTF, Cryptography, CaesarCipher]
 featured-image:  ringzer0CTF/icon.png
 featured-image-alt: ringzer0CTF
