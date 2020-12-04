@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ringzer0CTF Challenge 25 : Some Martian Message
-categories: [Write-Ups, Ringzer0CTF, Cryptography]
+categories: [Write-Ups, Ringzer0CTF]
 tags: [Ringzer0CTF, Cryptography, CaesarCipher]
 featured-image:  ringzer0CTF/icon.png
 featured-image-alt: ringzer0CTF

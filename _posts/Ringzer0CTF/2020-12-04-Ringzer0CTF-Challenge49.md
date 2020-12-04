@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ringzer0CTF Challenge 49 : File recovery
-categories: [Write-Ups, Ringzer0CTF, Cryptography]
+categories: [Write-Ups, Ringzer0CTF]
 tags: [Ringzer0CTF, Cryptography, RSA private key]
 featured-image:  ringzer0CTF/icon.png
 featured-image-alt: ringzer0CTF
