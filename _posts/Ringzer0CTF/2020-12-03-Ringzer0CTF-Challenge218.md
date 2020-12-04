@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ringzer0CTF Challenge 218 : Bash Jail 1
+title: Ringzer0CTF Bash Jail 1
 categories: [Write-Ups, Ringzer0CTF]
 tags: [Ringzer0CTF, Jail Escaping]
 featured-image:  ringzer0CTF/icon.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ringzer0CTF Challenge 26 : Martian message part 3 
+title: Ringzer0CTF Martian message part 3 
 categories: [Write-Ups, Ringzer0CTF]
 tags: [Ringzer0CTF, Cryptography, base64, XOR]
 featured-image:  ringzer0CTF/icon.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ringzer0CTF Challenge 274 : You're Drunk !
+title: Ringzer0CTF You're Drunk !
 categories: [Write-Ups, Ringzer0CTF]
 tags: [Ringzer0CTF, Cryptography]
 featured-image:  ringzer0CTF/icon.png

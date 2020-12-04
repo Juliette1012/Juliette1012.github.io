@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ringzer0CTF Challenge 63 : Martian Message part 2
+title: Ringzer0CTF Martian Message part 2
 categories: [Write-Ups, Ringzer0CTF]
 tags: [Ringzer0CTF, Cryptography, Vigenere Cipher]
 featured-image:  ringzer0CTF/icon.png

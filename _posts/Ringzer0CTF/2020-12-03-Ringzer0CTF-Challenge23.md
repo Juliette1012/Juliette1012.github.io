@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ringzer0CTF Challenge 23 : Can you understand this sentence ?
+title: Ringzer0CTF Can you understand this sentence ?
 categories: [Write-Ups, Ringzer0CTF]
 tags: [Ringzer0CTF, Cryptography, Bubblebabble]
 featured-image:  ringzer0CTF/icon.png

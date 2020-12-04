@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ringzer0CTF Challenge 50 : Public key recovery
+title: Ringzer0CTF Public key recovery
 categories: [Write-Ups, Ringzer0CTF]
 tags: [Ringzer0CTF, Cryptography, public key, MD5]
 featured-image:  ringzer0CTF/icon.png
