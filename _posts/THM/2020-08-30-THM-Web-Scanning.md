@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Web Scanning
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Security, Web, App, Scanning]
 featured-image:  thm/web-scanning/theme.png
 featured-image-alt: Web Scanning
@@ -25,7 +25,7 @@ We deploy the instance.
 
 * What if we want to set a specific port to scan? `-p`
 
-*  	As the web is constantly evolving, so is Nikto. A database of vulnerabilities represents a core component to this web scanner, how do we verify that this database is working and free from error? ` `-dbcheck`
+*  	As the web is constantly evolving, so is Nikto. A database of vulnerabilities represents a core component to this web scanner, how do we verify that this database is working and free from error?  `-dbcheck`
 
 * If instructed to, Nitko will attempt to guess and test both files within directories as well as usernames. Which switch and numerical value do we use to set Nikto to enumerate usernames in Apache? Keep in mind, this option is deprecated in favor of plugins, however, it's still a great option to be aware of for situational usage. `-mutate 3`
 

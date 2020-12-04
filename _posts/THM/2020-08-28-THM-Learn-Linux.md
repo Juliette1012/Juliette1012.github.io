@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Learn Linux
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Linux, Bash]
 featured-image:  thm/learn-linux/theme.png
 featured-image-alt: Learn Linux

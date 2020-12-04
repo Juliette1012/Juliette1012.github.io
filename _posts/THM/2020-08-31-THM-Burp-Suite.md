@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Burp Suite
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Burp Suite, Web]
 featured-image:  thm/burp-suite/theme.png
 featured-image-alt: Burp Suite

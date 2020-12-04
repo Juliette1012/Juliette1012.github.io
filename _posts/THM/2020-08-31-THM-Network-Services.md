@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Network Services
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Networking, SMB, Telnet, FTP]
 featured-image:  thm/network-services/theme.png
 featured-image-alt: Network Services

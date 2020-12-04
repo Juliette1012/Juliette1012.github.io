@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] OhSINT
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, CTF, OhSINT]
 featured-image:  thm/ohsint/theme.png
 featured-image-alt: OhSINT

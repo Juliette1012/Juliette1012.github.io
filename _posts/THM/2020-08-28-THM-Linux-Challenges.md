@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Linux Challenges
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Linux, Bash]
 featured-image:  thm/linux-challenges/theme.png
 featured-image-alt: Linux Challenges

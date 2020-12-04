@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] ToolsRus
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Web, dirbuster, nikto, metasploit, hydra]
 featured-image:  thm/toolsRus/theme.png
 featured-image-alt: ToolsRus

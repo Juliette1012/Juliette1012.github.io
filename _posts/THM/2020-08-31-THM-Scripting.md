@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Scripting
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Python, Scripting, Cryptography, Security]
 featured-image:  thm/scripting/theme.png
 featured-image-alt: Scripting

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Google Dorking
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Google]
 featured-image:  thm/google-dorking/theme.png
 featured-image-alt: Google Dorking

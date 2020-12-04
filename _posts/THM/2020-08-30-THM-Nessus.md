@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Nessus
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Security, Nessus, Scanning, Red Primer Series]
 featured-image:  thm/nessus/theme.png
 featured-image-alt: Nessus

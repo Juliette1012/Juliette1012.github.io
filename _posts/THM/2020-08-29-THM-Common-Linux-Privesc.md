@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Common Linux Privesc
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Linux, Bash, Privilege Escalation]
 featured-image:  thm/linux-privesc/theme.png
 featured-image-alt: Common Linux privesc

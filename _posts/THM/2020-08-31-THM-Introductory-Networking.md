@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Introductory Networking
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Networking, OSI]
 featured-image:  thm/intro-networking/theme.png
 featured-image-alt: Introductory Networking

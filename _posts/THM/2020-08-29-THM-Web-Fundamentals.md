@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Web Fundamentals
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Web, Http]
 featured-image:  thm/web-fundamentals/theme.png
 featured-image-alt: Web Fundamentals

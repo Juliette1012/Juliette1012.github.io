@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Metasploit
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Networking, Red Primer Series, Metasploit]
 featured-image:  thm/metasploit/theme.png
 featured-image-alt: Metasploit

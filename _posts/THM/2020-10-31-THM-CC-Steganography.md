@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] CC-Steganography
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Steganography]
 featured-image:  thm/cc-steganography/theme.png
 featured-image-alt: CC-Steganography

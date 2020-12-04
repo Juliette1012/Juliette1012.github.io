@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Introductory Researching
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Google]
 featured-image:  thm/intro-research/theme.png
 featured-image-alt: Introductory Researching

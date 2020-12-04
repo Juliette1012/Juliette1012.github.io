@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write-Up [THM] Intro to Python
-categories: [Write-Ups]
+categories: [Write-Ups, TryHackMe]
 tags: [TryHackMe, Python]
 featured-image:  thm/intro-python/theme.png
 featured-image-alt: Intro to Python
