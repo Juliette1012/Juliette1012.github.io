@@ -37,4 +37,4 @@ We put this on this website : http://rumkin.com/tools/cipher/baconian.php
 
 We obtained : `THEFLAGISBACONANDJACKDANIELSA`
 
-The solution of the challenge is : **BACONANDJACKDANIELS**
+The solution of the challenge is : **BACONANDJACKDANIELS**.
