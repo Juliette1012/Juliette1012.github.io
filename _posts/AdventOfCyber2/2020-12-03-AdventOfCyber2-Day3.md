@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AdventOfCyber2 Day 3
-categories: [Write-Ups, AdventOfCyber]
+categories: [Write-Ups, AdventOfCyber2]
 tags: [TryHackMe, AdventOfCyber2]
 featured-image:  adventOfCyber2/icon.png
 featured-image-alt: adventOfCyber2
