@@ -7,6 +7,8 @@ featured-image:  adventOfCyber2/icon.png
 featured-image-alt: adventOfCyber2
 ---
 
+It's a write-up about the room : [Try Hack Me - Room : AdventOfCyber2](https://tryhackme.com/room/adventofcyber2)
+
 # Day 3 : Christmas Chaos
 
 Deploy your AttackBox (the blue "Start AttackBox" button) and the tasks machine (green button on this task) if you haven't already. Once both have deployed, open Firefox on the AttackBox and copy/paste the machines IP (MACHINE_IP) into the browser search bar.
